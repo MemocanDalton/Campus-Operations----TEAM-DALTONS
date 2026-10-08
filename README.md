@@ -1,3 +1,12 @@
 # Campus-Operations----TEAM-DALTONLAR
 
-Öğrenci Pazar Yeri Platformu
+## TEAM MEMBERS 
+-Mehmet Ali Coşkun
+-YUĞSA EFE SUNA
+-FUAT BEREN KILIÇ
+
+##PROJECT
+-Öğrenci Pazar Yeri Platformu
+
+##SELECETED PROBLEM AREA
+-Öğrencilere ikinci el eşya bulma kolaylığı sağlama
